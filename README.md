@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ba-latte/Ba-latte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20👋&fontSize=35&fontAlignY=40&height=250)
+
+테스트
+
+<!-- 푸터 -->
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=150)
