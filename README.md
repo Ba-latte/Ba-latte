@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=안녕하세요%20😊&desc=신입%20프론트엔드%20개발자%20임유정입니다.&fontSize=35&fontAlignY=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=안녕하세요%20😊&desc=신입%20프론트엔드%20개발자%20임유정입니다.&fontColor=auto&fontSize=35&fontAlignY=40&height=250)
 
 
 
