@@ -59,6 +59,15 @@ Here are some ideas to get you started:
 
 <div>
   <p>📄 포트폴리오</p>
+  <p>👉 <a href="https://ba-latte.github.io/citadellegin-app/" target="_blank">citadellegin-app</a></p>
+</div>
+
+<br/>
+<br/>
+
+<div>
+  <p>📕 블로그</p>
+  <p>👉 기술 역량 강화를 위해 학습한 내용을 기록하는 블로그가 궁금하시다면 <a href="https://blog.naver.com/youj_lim/223108322887" target="_blank">여기</a>를 클릭해주세요</p>
 </div>
 
 <br/>
