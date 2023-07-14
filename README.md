@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ***
 
-  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ba-latte&layout=compact">
 <div>
+  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ba-latte&layout=compact">
   <p>✏ 기술사항</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   <p>🛠 사용 툴</p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div>
 
 ***
@@ -59,7 +60,8 @@ Here are some ideas to get you started:
 
 <div>
   <p>📄 포트폴리오</p>
-  <p>👉 <a href="https://ba-latte.github.io/citadellegin-app/" target="_blank">citadellegin-app</a></p>
+  <p>👉 Vue를 활용한 웹사이트 : <a href="https://ba-latte.github.io/FED-PJ-WBS-youj/02.%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9&%EC%95%B1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/03.%EA%B5%AC%ED%98%84%EC%86%8C%EC%8A%A4/index.html" target="_blank">BVLGARI</a></p>
+  <p>👉 React를 활용한 SPA : <a href="https://ba-latte.github.io/citadellegin-app/" target="_blank">citadellegin-app</a></p>
 </div>
 
 <br/>
