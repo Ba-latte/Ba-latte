@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 <div>
   <p>📄 포트폴리오</p>
+  <p>👉 자바스크립트만 사용하여 구현한 웹사이트 : <a href="https://ba-latte.github.io/tasteOfSeoulAward-website/index.html" target="_blank">서울미식주간</a></p>
   <p>👉 Vue를 활용한 웹사이트 : <a href="https://ba-latte.github.io/FED-PJ-WBS-youj/02.%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9&%EC%95%B1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/03.%EA%B5%AC%ED%98%84%EC%86%8C%EC%8A%A4/index.html" target="_blank">BVLGARI</a></p>
   <p>👉 React를 활용한 웹사이트 : <a href="https://ba-latte.github.io/citadellegin-app/" target="_blank">citadellegin-app</a></p>
 </div>
